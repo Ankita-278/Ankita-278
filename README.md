@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development.**
 
-- 📫 How to reach me **kankita2708@gmail.com**
+- 📫 How to reach me **raoankita278@gmail.com**
 
 - ⚡ Fun fact **I am a big time foodie and can watch FRIENDS all day.**
 
