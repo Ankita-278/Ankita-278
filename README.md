@@ -27,7 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankita-278&show_icons=true&locale=en&layout=compact" alt="ankita-278" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankita-278&show_icons=true&locale=en" alt="ankita-278" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita-278&" alt="ankita-278" /></p>
 
